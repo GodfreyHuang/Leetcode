@@ -1,5 +1,5 @@
 # 1. Two Sum  
-## Difficulty: <font color="Green">Easy</font>  
+## Difficulty: $\color{Green}{Easy}$    
 
 ### Description:  
 Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.  
